@@ -1,0 +1,22 @@
+{
+  "name": "Bramblebrook Home",
+  "short_name": "Bramblebrook",
+  "description": "Throws, slippers, cushions, and warm light for the rooms you use every day.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#FCFBF8",
+  "theme_color": "#5A3E5D",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
